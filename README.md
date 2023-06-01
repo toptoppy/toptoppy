@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-[![Kananek Mongkolsawat's Dev Card](https://github.com/toptoppy/toptoppy/blob/master/devcard.svg){width=400px}](https://app.daily.dev/toptoppy)
+<a href="https://app.daily.dev/toptoppy"><img src="https://raw.githubusercontent.com/toptoppy/toptoppy/036894bff080a2355753c11e81c5fc97056f4829/devcard.svg" width="400" alt="Kananek Mongkolsawat's Dev Card"/></a>
 
 I'm Kananek Mongkolsawat, a passionate software developer with 3 years of experience. I currently work at ODDS, where I specialize in the development and maintenance of software/web projects in data delivery and web service provider domains. I have a strong background in Agile/Scrum adoption, which enables me to build highly-effective self-managing teams.
 
