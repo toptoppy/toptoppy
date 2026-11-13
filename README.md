@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kananek Mongkolsawat
 
-**Top • Toppy • Toptoppy**
+**Top • Toppy • Top Kananek**
 
 ## 🏔️ THE ART OF ENDURANCE
 ### *In Trail. In Software. In Life.*
